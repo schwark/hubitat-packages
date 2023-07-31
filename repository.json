@@ -7,6 +7,12 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitatADC/packageManifest.json",
 			"description": "Alarm.com Panel implementation for Hubitat"
+		},
+		{
+			"name": "Hunter Douglas Platinum Shades",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-hunterdouglasplatinum/main/PackageManifest.json",
+			"description": "Hubitat Implementation for Hunter Douglas Platinum Shades"
 		}
 	]
 }
