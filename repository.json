@@ -13,6 +13,12 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-hunterdouglasplatinum/main/PackageManifest.json",
 			"description": "Hubitat Implementation for Hunter Douglas Platinum Shades"
+		},
+		{
+			"name": "Sonos Favorites Support",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-sonos-favorites/main/PackageManifest.json",
+			"description": "Sonos Favorites Support for Hubitat"
 		}
 	]
 }
