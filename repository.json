@@ -19,6 +19,12 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-sonos-favorites/main/PackageManifest.json",
 			"description": "Sonos Favorites Support for Hubitat"
+		},
+		{
+			"name": "Starling Hub Support",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-starling/main/PackageManifest.json",
+			"description": "Starling Hub Support for Hubitat"
 		}
 	]
 }
