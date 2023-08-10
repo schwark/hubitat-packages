@@ -21,7 +21,7 @@
 			"description": "Sonos Favorites Support for Hubitat"
 		},
 		{
-			"name": "Starling Hub Support",
+			"name": "Nest Doorbell via Starling Hub",
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-starling/main/PackageManifest.json",
 			"description": "Starling Hub Support for Hubitat"
