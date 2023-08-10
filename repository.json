@@ -5,7 +5,7 @@
 		{
 			"name": "Hubitat Alarm.com Panel",
 			"category": "Integrations",
-			"location": "https://raw.githubusercontent.com/schwark/hubitatADC/packageManifest.json",
+			"location": "https://raw.githubusercontent.com/schwark/hubitatADC/master/packageManifest.json",
 			"description": "Alarm.com Panel implementation for Hubitat"
 		},
 		{
