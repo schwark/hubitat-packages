@@ -25,6 +25,12 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-starling/main/PackageManifest.json",
 			"description": "Starling Hub Support for Hubitat"
+		},
+		{
+			"name": "Schlage WiFi Locks",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-schlage/main/PackageManifest.json",
+			"description": "Schlage WiFi Locks for Hubitat"
 		}
 	]
 }
