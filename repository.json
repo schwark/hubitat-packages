@@ -31,6 +31,12 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-schlage/main/PackageManifest.json",
 			"description": "Schlage WiFi Locks for Hubitat"
+		},
+		{
+			"name": "Kidde HomeSafe",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-kidde/main/PackageManifest.json",
+			"description": "Kidde HomeSafe for Hubitat"
 		}
 	]
 }
